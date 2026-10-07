@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "schedule": "21:00",
+  "backup_root": "~/SnapshotBackups",
+  "jobs": []
+}

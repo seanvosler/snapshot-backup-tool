@@ -1,0 +1,14 @@
+# Runtime/user state
+config.json
+state/
+logs/
+
+# Build products
+Snapshot Backup.app/
+*.pyc
+__pycache__/
+.DS_Store
+
+# Local scratch
+*.tmp
+*.partial
